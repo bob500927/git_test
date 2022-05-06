@@ -1,2 +1,4 @@
 Hello Odin
 This is a test :)
+
+Test the new commit points
